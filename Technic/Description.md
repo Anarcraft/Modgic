@@ -1,0 +1,1 @@
+The Modgic modpack is loaded with many of your favorite magic mods with a few tech mods as well.  Adventurers beware though, the world is filled with dangerous monsters which seem to be stronger than usual.  Requires minimum of 3GB RAM set in your launcher.
