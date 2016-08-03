@@ -3,6 +3,7 @@
 ### Client/Server:
 **Forge:** Enabled delete erroring entities and tile entities instead of crashing the server, disable mod overrides for chunk loading, cache 5000 chunks.<br>
 **AbyssalCraft:** Enabled oceanic coralium pollution, coralium physics, coralium spreads, hardcore mode.<br>
+**Bagginses:** Enabled bags.<br>
 **Ender Zoo:** Halved spawn rate of small Khndrel Keghts.<br>
 **EvilCraft:** Enabled excrement piles, enabled extra silverfish blocks.<br>
 **Graves:** 0.02 mossy grave spawn chance.<br>

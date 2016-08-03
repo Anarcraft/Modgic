@@ -1,9 +1,7 @@
 ## Modgic 0.1.0 @ Minecraft 1.10.2
 ### By Anarcraft & Team [Underground Lounge](http://uglounge.com)
 
-ModPack description.  Make it short and captivating!
-
-The Modgic modpack is loaded with many of your favorite magic mods with a few tech mods as well. Build your dream base with magic, tech or explore the world. Adventurers beware though, the world is filled with dangerous monsters which seem to be stronger than usual.
+Modgic is loaded with many of your favorite magic and tech mods. Build your dream vampire mansion, a towering blood mage spire, a huge factory, a Jurassic Park and/or explore the world. Adventurers beware though, the world is filled with dangerous monsters which seem to be stronger than usual.  Legends tell tales of mythical weapons and armors which can bring down these powerful beasts.
 
 To install, open the Technic launcher and search for "Modgic-Beta".<br>
 [Modpack Page](http://technicpack.net/modpack/modgic-beta)
