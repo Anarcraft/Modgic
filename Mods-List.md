@@ -24,6 +24,7 @@ ElecCore-1.9.4-1.5.292<br>
 EnderCore-1.10.2-0.4.1.46-beta<br>
 EnderIO-1.10.2-3.0.1.81_beta<br>
 EnderStorage-1.10.2-2.1.3.71<br>
+enderutilities-1.10.2-0.6.5<br>
 EnderZoo-1.10-1.2.3.43<br>
 EvilCraft-1.9.4-0.10.7<br>
 extraalchemy-0.2.6.2-beta<br>
@@ -46,6 +47,7 @@ Mekanism-1.10.2-9.1.0.288<br>
 MekanismGenerators-1.10.2-9.1.0.288<br>
 MekanismTools-1.10.2-9.1.0.288<br>
 MmmMmmMmmMmm-1.11<br>
+Morph-o-Tool-1.0-6<br>
 mysticalagriculture-1.1.2<br>
 notenoughwands-1.9.4-1.3.5<br>
 Pam's HarvestCraft 1.9.4-1.10.2a<br>
