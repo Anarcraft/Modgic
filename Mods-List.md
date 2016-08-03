@@ -36,6 +36,7 @@ gendustry-1.6.4.8-mc1.10.2<br>
 Graves-1.10.2-b28<br>
 industrialcraft-2-2.6.23-ex110<br>
 inventorypets-1.10-1.4.8.1<br>
+ironchest-1.10.2-7.0.7.795<br>
 jefb_1.10.2-1.0.3<br>
 jei_1.10.2-3.7.9.236<br>
 JurassiCraft-2.0.2<br>
