@@ -2,13 +2,11 @@
 
 ### Client/Server Mods:
 MinecraftForge1.10.2 - 12.18.1.2045<br>
-1.10-chunkedgeindicator-1.3<br>
 AbyssalCraft-1.10.2-1.9.2.7<br>
 advancedswords-1.3.0-[1.9.4]<br>
 Bagginses-1.10-3.0.3<br>
 Baubles-1.9.4-1.2.1.0<br>
 bdlib-1.12.0.2-mc1.10.2<br>
-BetterTitleScreen-1.10.2-1.2e<br>
 BiomesOPlenty-1.9.4-4.1.0.2052<br>
 BlockDrops-1.10.2-1.0.9<br>
 BloodArsenal-1.10.2-2.0.1-11<br>
@@ -22,7 +20,6 @@ CodeChickenCore-1.10.2-2.1.7.77<br>
 combathelp-1.9.4-1.0.3<br>
 CyclopsCore-1.9.4-0.7.3<br>
 deepresonance-1.10-1.2.0beta36<br>
-DefaultOptions_1.10.2-6.1.5<br>
 ElecCore-1.9.4-1.5.292<br>
 EnderCore-1.10.2-0.4.1.46-beta<br>
 EnderIO-1.10.2-3.0.1.81_beta<br>
@@ -40,10 +37,8 @@ ironchest-1.10.2-7.0.7.795<br>
 jefb_1.10.2-1.0.3<br>
 jei_1.10.2-3.7.9.236<br>
 JurassiCraft-2.0.2<br>
-JustEnoughResources-1.10.2-0.4.6.42<br>
 k4lib-1.10-1.0.58<br>
 llibrary-1.5.1-1.10.2<br>
-LLOverlayReloaded-1.1.0-mc[1.9-1.10.2]<br>
 LycanitesMobsComplete 1.15.1.1 [1.10]<br>
 Mantle-1.10.2-0.10.4<br>
 mcjtylib-1.10-1.9.9<br>
@@ -75,7 +70,12 @@ Waila-1.7.0-B3_1.9.4<br>
 Wawla-1.10.2-2.3.0.197
 
 ### Client Only Mods:
+1.10-chunkedgeindicator-1.3<br>
+BetterTitleScreen-1.10.2-1.2e<br>
+DefaultOptions_1.10.2-6.1.5<br>
 InventoryTweaks-1.61-58<br>
+JustEnoughResources-1.10.2-0.4.6.42<br>
+LLOverlayReloaded-1.1.0-mc[1.9-1.10.2]<br>
 MouseTweaks-2.6.3-mc1.9.4<br>
 WailaHarvestability-mc1.10-1.1.7<br>
 Xaeros_Minimap_1.10_Forge_1.10.2
