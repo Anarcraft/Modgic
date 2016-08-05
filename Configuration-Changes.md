@@ -17,7 +17,7 @@
 
 ### Client:
 **Better Title Screen:** Modpack info, show Forge version.<br>
-**PVP Toggle:** Position GUI in upper right.<br>
+**PVP Toggle:** Position GUI in upper left below minimap.<br>
 **Xaero's MiniMap:** Changed entity colors, waypoint name on, show current biome.
 
 ### Server:
